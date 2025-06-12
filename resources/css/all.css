@@ -1,0 +1,22 @@
+/* === Fonts dan External dari CDN === */
+@import url("https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback");
+@import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
+
+/* === Frontend Fonts & Vendors === */
+@import "../../public/frontend/fonts/icomoon/style.css";
+@import "../../public/frontend/fonts/flaticon/font/flaticon.css";
+@import "../../public/frontend/css/tiny-slider.css";
+@import "../../public/frontend/css/aos.css";
+@import "../../public/frontend/css/flatpickr.min.css";
+@import "../../public/frontend/css/glightbox.min.css";
+
+/* === Admin Template === */
+@import "../../public/Template/plugins/fontawesome-free/css/all.min.css";
+@import "../../public/Template/";
+@import "../../public/Template/dist/css/adminlte.min.css";
+@import "../../public/Template/fontawesome/css/all.min.css";
+@import "../../public/Template/plugins/sweetalert2/sweetalert2.min.css";
+
+/* === Custom CSS Sendiri === */
+@import "../../public//css/beta.css";

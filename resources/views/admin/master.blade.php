@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="{{ asset('Template/plugins/fontawesome-free/css/all.min.css') }}">
     <!-- Theme style -->
     <link rel="stylesheet" href="{{ asset('Template/dist/css/adminlte.min.css') }}">
+    <link rel="stylesheet" href="{{ mix('css/all.css') }}">
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="{{ asset('Template/fontawesome/css/all.min.css') }}">
     <!-- Logo website-->
@@ -87,7 +89,7 @@
         <!-- /.content-wrapper -->
 
         <footer class="main-footer">
-            
+
         </footer>
 
         <!-- Control Sidebar -->
@@ -130,7 +132,7 @@
                 }
             })
         });
-        
+
         $(document).on('click', '#btn-hapus', function(e) {
             e.preventDefault();
 

@@ -33,6 +33,8 @@
 
     <!-- Css Custom sendiri-->
     <link rel="stylesheet" href="{{ asset('css/beta.css') }}">
+    <link rel="stylesheet" href="{{ mix('css/all.css') }}">
+
 
     <!-- Tambahan -->
     {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
